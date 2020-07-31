@@ -1,4 +1,4 @@
-# Python Directory Mapper
+# Python directory mapper
 
 Little script that runs through directory and lists folder names, then enter those folders and map txt files with numerical names.
 Returns JSON encoded response.
