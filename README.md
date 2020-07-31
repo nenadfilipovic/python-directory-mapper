@@ -39,7 +39,7 @@ git clone https://github.com/nenadfilipovic/python-directory-mapper
 
 ## Built With
 
-* [Python](https://www.python.org/) - Language used
+* [Python](https://www.python.org/)
 
 ## Authors
 
