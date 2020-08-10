@@ -7,7 +7,7 @@ Build for personal needs to create item lists out of bunch of txt files.
 
 ## Getting Started
 
-Clone this repository
+Clone this repository:
 
 ```
 git clone https://github.com/nenadfilipovic/python-directory-mapper
@@ -47,7 +47,7 @@ git clone https://github.com/nenadfilipovic/python-directory-mapper
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
